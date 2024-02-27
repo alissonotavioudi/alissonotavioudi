@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tenho mais de 10 anos de experiência atuando com Dados. Minha experiência é voltada a Análise de Dados, e venho me desenvolvendo na linha de Ciência de Dados. Entre os conhecimentos técnicos, tenho domínio de SQL, SAS Enterprise Guide, Power BI, e bons conhecimentos de Python. Ainda, domino os conceitos envolvendo Estatística Descritiva e Inferencial.Estou estudando atualmente as plataformas de Cloud (AWS, GCP e Azure), e já tenho mapeado estudar Databricks.
+Tenho mais de 10 anos de experiência atuando com Dados. Minha experiência é voltada a Análise de Dados, e venho me desenvolvendo na linha de Ciência de Dados. Entre os conhecimentos técnicos, tenho domínio de SQL, SAS Enterprise Guide, Power BI, e bons conhecimentos de Python. Ainda, domino os conceitos envolvendo Estatística Descritiva e Inferencial. Estou estudando atualmente as plataformas de Cloud (AWS, GCP e Azure), e já tenho mapeado estudar Databricks.
 
 
 ## 🌐 Socials:
