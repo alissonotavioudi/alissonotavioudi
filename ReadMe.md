@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tenho mais de 10 anos de experiência atuando com Dados. Minha experiência é voltada a Análise de Dados, e venho me desenvolvendo na linha de Engenharia de Dados. Entre os conhecimentos técnicos, tenho domínio de SQL, SAS Enterprise Guide, Power BI, e bons conhecimentos de Python, Databricks e clouds em geral, principalmente em serviços AWS. Estou estudando atualmente Mongodb, Postgree e ferramentas de ETL/ELT.
+Sou um profissional com uma trajetória de mais de 10 anos de experiência em Engenharia e Análise de dados, vivenciado em empresas do segmento financeiro e e varejista. Entre os conhecimentos técnicos, tenho domínio de SQL, SAS Enterprise Guide, Power BI, e bons conhecimentos de Python, Databricks e clouds em geral, principalmente em serviços AWS. Estou estudando atualmente Mongodb, Postgree e ferramentas de ETL/ELT.
 
 
 ## 🌐 Socials:
